@@ -1,1 +1,1 @@
-# team-generator-webApp
+# Team Generator Angular Web Application
